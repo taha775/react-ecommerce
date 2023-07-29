@@ -1,0 +1,10 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+
+
+
+
+
+
+    https://www.youtube.com/watch?v=Wahz9bZfpv8

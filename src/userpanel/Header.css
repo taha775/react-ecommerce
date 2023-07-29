@@ -1,0 +1,38 @@
+*{
+    margin-top: 2px;
+    padding: 0px;
+}
+
+.xs{font-size: 13px;}
+
+
+.container1{
+ background-color: green;
+    width: 100%;
+    
+
+}
+.header1{
+    width: 900px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: auto;
+    justify-content: flex-start;
+    float: left;
+}
+
+.logo img{
+    display: flex;
+    flex-direction: row;
+    margin-left: 100px;
+
+}
+
+.icons1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 200px;
+margin-left: 50px;
+}
